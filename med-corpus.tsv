@@ -5,7 +5,7 @@ angehalten	O
 ,	O
 durch	O
 Prüfung	O
-der 	O
+der	O
 Beipackzettel	O
 der	O
 verwendeten	O
@@ -571,7 +571,7 @@ of	O
 Allergy	O
 and	O
 Infectious	O
-Disease 	O
+Disease	O
 Globale	O
 Bedeutung	O
 13Ihr	O
@@ -627,7 +627,7 @@ reassortete	O
 Viren	b-med
 waren	O
 ,	O
-die 	O
+die	O
 Gene	b-med
 von	O
 Vogelgrippeviren	b-med
@@ -638,7 +638,7 @@ es	O
 drei	O
 Gene	b-med
 (Hämagglutinin	b-med
-, 	O
+,	O
 Neuraminidase	b-med
 und	O
 die	O
@@ -692,7 +692,7 @@ Influenzavirus	i-med
 vorzubeugen	O
 .	O
 Ein	O
-neuer 	O
+neuer	O
 Virus	b-med
 Stamm	i-med
 wird	O
@@ -1312,7 +1312,7 @@ neuerdings	O
 zirkulierunden	O
 hoch	O
 pathogenen	b-med
-H5N1 	b-med
+H5N1	b-med
 Viren	b-med
 gefunden	O
 wurden	O
@@ -1328,7 +1328,7 @@ Influenza	b-med
 größtenteils	O
 eine	O
 Erkrankung	b-med
-von 	O
+von	O
 Vögeln	O
 .	O
 Die	O
@@ -1351,7 +1351,7 @@ Gebiete	O
 seit	O
 mehr	O
 als	O
-zwei 	O
+zwei	O
 Jahren	O
 ,	O
 wurden	O
@@ -1371,7 +1371,7 @@ Menschen	O
 ,	O
 erstmals	O
 1997	O
-dokumentiert 	O
+dokumentiert	O
 ,	O
 traten	O
 gleichzeitig	O
@@ -1452,7 +1452,7 @@ Infektion	b-med
 oder	O
 eine	O
 milde	O
-klinische 	b-med
+klinische	b-med
 Erkrankung	b-med
 auftreten	O
 .	O
@@ -1463,7 +1463,7 @@ häufig	O
 wären	O
 ,	O
 wäre	O
-die 	O
+die	O
 Todesrate	O
 bei	O
 schwerer	O
@@ -1600,7 +1600,7 @@ oder	O
 jünger	O
 waren	O
 ,	O
-75% 	O
+75%	O
 waren	O
 jünger	O
 als	O
@@ -2109,7 +2109,7 @@ Gene	b-med
 von	O
 hoch	O
 pathogenen	b-med
-H5N1 	i-med
+H5N1	i-med
 Viren	i-med
 Resistenzen	O
 gegen	O
@@ -2208,7 +2208,7 @@ Mikroorganismen	b-med
 Vorraussetzungen	O
 für	O
 den	O
-Erfolg 	O
+Erfolg	O
 Um	O
 ein	O
 pandemischer	O
@@ -2221,7 +2221,7 @@ ein	O
 Influenzavirus	b-med
 eine	O
 Reihe	O
-von 	O
+von	O
 Anforderungen	O
 erfüllen:	O
 Es	O
@@ -2229,13 +2229,13 @@ muss	O
 in	O
 den	O
 menschlichen	O
-Körper 	b-med
+Körper	b-med
 Eindringen	O
 und	O
 sich	O
 dort	O
 vervielfältigen	O
-, 	O
+,	O
 für	O
 den	O
 Menschen	O
@@ -2275,7 +2275,7 @@ um	O
 neue	O
 Abkömmlinge	O
 zu	O
-produzieren 	O
+produzieren	O
 ;	O
 ebenso	O
 wie	O
@@ -2316,7 +2316,7 @@ dem	O
 Virus	b-med
 um	O
 einen	O
-echten 	O
+echten	O
 „newcomer“	O
 handelt	O
 ,	O
@@ -2355,7 +2355,7 @@ als	O
 Mrd	O
 .	O
 Menschen	O
-eine 	O
+eine	O
 Nahrungsgrundlage	O
 finden	O
 .	O
@@ -3159,7 +3159,7 @@ können	O
 das	O
 Virus	b-med
 noch	O
-10 	O
+10	O
 Tage	O
 länger	O
 verbreiten	O
@@ -3170,7 +3170,7 @@ normalerweise	O
 sehr	O
 artspezifisch	O
 sind	O
-, 	O
+,	O
 kommt	O
 es	O
 nur	O
@@ -3310,7 +3310,7 @@ ermöglichen	O
 Es	O
 gibt	O
 aber	O
-potentielle 	O
+potentielle	O
 Wege	O
 ,	O
 wodurch	O
@@ -3362,7 +3362,7 @@ H5N1	b-med
 H7N3	b-med
 ,	O
 H7N7	b-med
-und 	O
+und	O
 H9N2	b-med
 (WHO	O
 200601)	O
@@ -3419,12 +3419,12 @@ Infektion	b-med
 des	O
 Menschen	O
 zu	O
-sein 	O
+sein	O
 .	O
 H5N1	O
 Auf	O
 dem	O
-Vormarsch 	O
+Vormarsch	O
 Zur	O
 Zeit	O
 sind	O
@@ -3486,7 +3486,7 @@ ist	O
 Dennoch	O
 scheinen	O
 die	O
-H5N1 	b-med
+H5N1	b-med
 Stämme	i-med
 in	O
 den	O
@@ -3532,7 +3532,7 @@ H5N1	b-med
 hat	O
 sein	O
 Sortiment	O
-an 	O
+an	O
 Wirten	O
 nicht	O
 nur	O
@@ -3542,7 +3542,7 @@ erweitert	O
 ,	O
 sondern	O
 auch	O
-um 	O
+um	O
 Säugetiere	O
 ,	O
 die	O
@@ -3634,7 +3634,7 @@ alle	O
 eine	O
 besondere	O
 Mutation	b-med
-, 	O
+,	O
 die	O
 mit	O
 größerer	O
@@ -3682,7 +3682,7 @@ hat	O
 und	O
 zusammen	O
 mit	O
-diesen 	O
+diesen	O
 Vögeln	O
 in	O
 einem	O
@@ -4527,7 +4527,7 @@ eine	O
 Therapie	b-med
 mit	O
 Amantadin	b-med
-oder 	O
+oder	O
 Rimantadin	b-med
 so	O
 bald	O
@@ -4543,7 +4543,7 @@ Regel	O
 nach	O
 3	O
 bis	O
-5 	O
+5	O
 Behandlungstagen	O
 ,	O
 oder	O
@@ -4582,7 +4582,7 @@ Patienten	b-med
 ,	O
 die	O
 sieben	O
-Jahre 	O
+Jahre	O
 oder	O
 älter	O
 sind	O
@@ -5459,7 +5459,7 @@ unklar	O
 Vorläufigen	O
 Empfehlungen	O
 lauten(WHO	O
-2005): 	O
+2005):	O
 Die	O
 Therapie	b-med
 mit	O
@@ -6307,7 +6307,7 @@ größer	O
 sein	O
 wird	O
 als	O
-der 	O
+der	O
 Vorrat	O
 ,	O
 wurde	O
@@ -6406,7 +6406,7 @@ wirtschaftliche	O
 Bedeutung	O
 gibt	O
 es	O
-gewissen 	O
+gewissen	O
 Hinweise	O
 darauf	O
 ,	O
@@ -6445,7 +6445,7 @@ man	O
 Strategien	O
 zur	O
 Vorratshaltung	O
-dieser 	O
+dieser	O
 Medikamente	b-med
 für	O
 die	O
